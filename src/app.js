@@ -23,7 +23,7 @@ let konutKredileri = ["Konut kredisi","Emlak konut kredisi","Özel","Kamu konut 
 
 console.log("<ul>")
 for (let i = 0; i <konutKredileri.length; i++) {
-console.log("<li>"+ konutKredileri[i]+"</li>")}
+console.log("<li>"+ konutKrediileri[i]+"</li>")}
 console.log("</ul>")
 
 console.log(konutKredileri)
